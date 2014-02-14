@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 200px;
+  margin: 40px auto;
+  background-color: #E1E1E1;
+  padding: 100px 25px 300px 25px;
+  cursor: pointer;
+  border-radius: 50px;
+  border: 10px;
+  border-style: solid;
+  border-color: #6cffff;
+}
+
+.swatch {
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.la {
+  background: url("../images/hollywood.jpg") no-repeat;
+  height: 350px;
+  margin-top: -10px;
+  margin-left: 30px;
+}
+
+.hearts-gray {
+  background: url("../images/hearts-gray.jpg") repeat;
+}
+
+.pink-text {
+  color: #ff6c6c;
+}
+
+.nova-font {
+  font-family: 'Nova Mono', cursive;
+}
+
+.light-pink-background {
+  background: #fdc8c8;
+}
